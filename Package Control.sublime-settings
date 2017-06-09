@@ -40,9 +40,11 @@
 		"HTMLAttributes",
 		"HTMLBeautify",
 		"Laravel 5 Artisan",
+		"Laravel 5 Docs Light Color Scheme",
 		"LiveReload",
 		"Markdown Preview",
 		"Material Theme",
+		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Codebeautifier",
@@ -58,6 +60,7 @@
 		"VueFormatter",
 		"Vuejs Complete Package",
 		"Vuejs Snippets",
-		"WebFont"
+		"WebFont",
+		"Wrap Plus"
 	]
 }

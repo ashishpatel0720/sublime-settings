@@ -1,4 +1,4 @@
 [
 		{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
-
+        { "keys": ["ctrl+alt+i"], "command": "reindent", "args": {"panel": "replace", "reverse": false} },
 ]
