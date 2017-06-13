@@ -1,4 +1,5 @@
 [
 		{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
-
+        { "keys": ["ctrl+alt+n"], "command": "new_window" },
+        { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
 ]
