@@ -1,22 +1,19 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
-<<<<<<< HEAD
-	"font_face": "Fira Code",
-	"font_size": 12,
-=======
 	"font_face": "ubuntu",
-	"font_size": 11,
->>>>>>> d09cbea7237537450d3f72d6d9434bf2b3b3d575
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Competitive Programming",
 		"Git",
 		"GitOpenChangedFiles",
 		"Jinja2",
-		"jQuery",
+		"PHP",
 		"Python 3",
 		"Python Completions",
-		"Vintage"
+		"Vintage",
+		"jQuery"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 2,
