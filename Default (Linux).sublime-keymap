@@ -1,6 +1,17 @@
 [
-		{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+        { "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
         { "keys": ["ctrl+alt+n"], "command": "new_window" },
-        { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
+
+  // advance new file shortcuts
+        { "keys": ["ctrl+shift+n"], "command": "advanced_new_file_new"},
+        { "keys": ["ctrl+shift+c"], "command": "advanced_new_file_copy"},
+        { "keys": ["ctrl+shift+m"], "command": "advanced_new_file_move"},
+        { "keys": ["ctrl+shift+d"], "command": "advanced_new_file_delete"},
+
+   //indenting lines
         { "keys": ["ctrl+alt+i"], "command": "reindent", "args": {"panel": "replace", "reverse": false} },
+
+        //Insert new snippet to wrap text around some tag
+        { "keys": ["ctrl+shift+j"], "command": "insert_snippet", "args": { "name": "Packages/XML/Snippets/long-tag.sublime-snippet" } },
+
 ]
