@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Material Theme"
 	],
 	"installed_packages":
 	[
@@ -12,6 +11,9 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Angular CLI",
+		"Angular2 HTML Syntax",
+		"AngularJS",
 		"Bash Build System",
 		"Bootstrap 3 Autocomplete",
 		"Boxy Theme",
@@ -65,6 +67,7 @@
 		"Terminal",
 		"Terminality",
 		"Theme - Brogrammer",
+		"TypeScript",
 		"Vue Syntax Highlight",
 		"VueFormatter",
 		"Vuejs Complete Package",

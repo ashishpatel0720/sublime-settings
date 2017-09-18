@@ -13,5 +13,6 @@
 
         //Insert new snippet to wrap text around some tag
         { "keys": ["ctrl+shift+j"], "command": "insert_snippet", "args": { "name": "Packages/XML/Snippets/long-tag.sublime-snippet" } },
-
+   //duplicating lines
+     { "keys": ["ctrl+d"], "command": "duplicate_line" },
 ]
